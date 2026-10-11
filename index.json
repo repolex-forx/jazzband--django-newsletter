@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-newsletter",
+  "versions": [
+    {
+      "commit": "fbde7a13ba686156d355b613a1d03d2595b4b89d",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:19:48.481255+00:00"
+    }
+  ]
+}
