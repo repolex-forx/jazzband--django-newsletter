@@ -1,0 +1,7 @@
+[2026-10-11T04:18:19Z] === AST ITERATION 1 START | repo=jazzband/django-newsletter sha=fbde7a13 ===
+[2026-10-11T04:18:19Z] [iter=1] PHASE START: ast repo=jazzband/django-newsletter sha=fbde7a13
+[2026-10-11T04:18:19Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T04:18:41Z] [iter=1] AST chunks built count=1 triples=275362
+[2026-10-11T04:18:41Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/fbde7a13ba686156d355b613a1d03d2595b4b89d/.complete
+[2026-10-11T04:18:41Z] [iter=1] PHASE END: ast elapsed_s=22 elapsed_min=0.4
+[2026-10-11T04:18:41Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
